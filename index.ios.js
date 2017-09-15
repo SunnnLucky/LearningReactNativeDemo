@@ -11,7 +11,8 @@ import { AppRegistry } from 'react-native';
 // import startUp from './testApp/05_QQloginView/QQloginView.js'
 // import startUp from './testApp/06_RotationImage/RotationImage.js'
 // import startUp from './testApp/07_listViewDemo/listViewDemo.js'
-import startUp from './testApp/08_carListView/carListView.js'
+// import startUp from './testApp/08_carListView/carListView.js'
+import startUp from './testApp/10_newsDemo/newsDemo.js'
 
 /* 注册启动组件 */
 AppRegistry.registerComponent('MyApp', () => startUp);

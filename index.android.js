@@ -7,7 +7,7 @@
 import React, { Component } from 'react';
 import { AppRegistry } from 'react-native';
 
-import startUp from './testApp/05_QQloginView/QQloginView.js'
+import startUp from './testApp/10_newsDemo/newsDemo.js'
 
 /* 注册启动组件 */
 AppRegistry.registerComponent('MyApp', () => startUp);

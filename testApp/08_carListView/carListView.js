@@ -66,7 +66,7 @@ export default class mainFunc extends Component {
     renderSectionHeader(sectionData,sectionID){
         return(
             <View style={styles.sectionStyle}>
-                <Text style={{fontSize : 15,left : 10}}>{sectionData}</Text>
+                <Text style={{fontSize : 15,left : 10, color : 'white'}}>{sectionData}</Text>
             </View>
         )
     }

@@ -2,435 +2,85 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aef22f20-791c-4d32-b983-6d07a8dec380" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_100_100.imageset/m_100_100.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_100_100.imageset/m_100_100@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_102_100.imageset/m_102_100.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_102_100.imageset/m_102_100@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_104_100.imageset/m_104_100.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_104_100.imageset/m_104_100@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_107_100.imageset/m_107_100.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_107_100.imageset/m_107_100@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_109_100.imageset/m_109_100.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_109_100.imageset/m_109_100@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_10_100.imageset/m_10_100.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_10_100.imageset/m_10_100@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_110_100.imageset/m_110_100.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_110_100.imageset/m_110_100@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_111_100.imageset/m_111_100.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_111_100.imageset/m_111_100@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_112_100.imageset/m_112_100.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_112_100.imageset/m_112_100@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_113_100.imageset/m_113_100.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_113_100.imageset/m_113_100@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_115_100.imageset/m_115_100.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_115_100.imageset/m_115_100@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_127_100.imageset/m_127_100.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_127_100.imageset/m_127_100@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_128_100.imageset/m_128_100.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_128_100.imageset/m_128_100@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_129_100.imageset/m_129_100.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_129_100.imageset/m_129_100@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_133_100.imageset/m_133_100.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_133_100.imageset/m_133_100@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_135_100.imageset/m_135_100.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_135_100.imageset/m_135_100@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_136_100.imageset/m_136_100.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_136_100.imageset/m_136_100@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_138_100.imageset/m_138_100.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_138_100.imageset/m_138_100@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_13_100.imageset/m_13_100.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_13_100.imageset/m_13_100@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_140_100.imageset/m_140_100.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_140_100.imageset/m_140_100@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_141_100.imageset/m_141_100.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_141_100.imageset/m_141_100@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_142_100.imageset/m_142_100.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_142_100.imageset/m_142_100@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_143_100.imageset/m_143_100.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_143_100.imageset/m_143_100@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_144_100.imageset/m_144_100.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_144_100.imageset/m_144_100@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_145_100.imageset/m_145_100.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_145_100.imageset/m_145_100@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_146_100.imageset/m_146_100.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_146_100.imageset/m_146_100@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_147_100.imageset/m_147_100.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_147_100.imageset/m_147_100@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_148_100.imageset/m_148_100.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_148_100.imageset/m_148_100@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_149_100.imageset/m_149_100.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_149_100.imageset/m_149_100@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_14_100.imageset/m_14_100.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_14_100.imageset/m_14_100@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_150_100.imageset/m_150_100.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_150_100.imageset/m_150_100@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_152_100.imageset/m_152_100.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_152_100.imageset/m_152_100@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_153_100.imageset/m_153_100.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_153_100.imageset/m_153_100@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_155_100.imageset/m_155_100.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_155_100.imageset/m_155_100@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_156_100.imageset/m_156_100.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_156_100.imageset/m_156_100@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_157_100.imageset/m_157_100.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_157_100.imageset/m_157_100@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_159_100.imageset/m_159_100.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_159_100.imageset/m_159_100@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_15_100.imageset/m_15_100.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_15_100.imageset/m_15_100@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_161_100.imageset/m_161_100.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_161_100.imageset/m_161_100@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_163_100.imageset/m_163_100.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_163_100.imageset/m_163_100@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_164_100.imageset/m_164_100.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_164_100.imageset/m_164_100@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_165_100.imageset/m_165_100.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_165_100.imageset/m_165_100@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_166_100.imageset/m_166_100.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_166_100.imageset/m_166_100@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_167_100.imageset/m_167_100.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_167_100.imageset/m_167_100@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_168_100.imageset/m_168_100.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_168_100.imageset/m_168_100@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_16_100.imageset/m_16_100.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_16_100.imageset/m_16_100@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_170_100.imageset/m_170_100.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_170_100.imageset/m_170_100@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_171_100.imageset/m_171_100.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_171_100.imageset/m_171_100@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_172_100.imageset/m_172_100.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_172_100.imageset/m_172_100@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_174_100.imageset/m_174_100.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_174_100.imageset/m_174_100@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_179_100.imageset/m_179_100.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_179_100.imageset/m_179_100@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_17_100.imageset/m_17_100.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_17_100.imageset/m_17_100@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_180_100.imageset/m_180_100.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_180_100.imageset/m_180_100@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_181_100.imageset/m_181_100.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_181_100.imageset/m_181_100@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_182_100.imageset/m_182_100.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_182_100.imageset/m_182_100@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_183_100.imageset/m_183_100.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_183_100.imageset/m_183_100@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_186_100.imageset/m_186_100.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_186_100.imageset/m_186_100@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_188_100.imageset/m_188_100.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_188_100.imageset/m_188_100@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_189_100.imageset/m_189_100.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_189_100.imageset/m_189_100@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_18_100.imageset/m_18_100.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_18_100.imageset/m_18_100@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_190_100.imageset/m_190_100.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_190_100.imageset/m_190_100@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_194_100.imageset/m_194_100.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_194_100.imageset/m_194_100@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_195_100.imageset/m_195_100.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_195_100.imageset/m_195_100@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_196_100.imageset/m_196_100.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_196_100.imageset/m_196_100@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_197_100.imageset/m_197_100.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_197_100.imageset/m_197_100@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_199_100.imageset/m_199_100.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_199_100.imageset/m_199_100@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_19_100.imageset/m_19_100.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_19_100.imageset/m_19_100@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_200_100.imageset/m_200_100.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_200_100.imageset/m_200_100@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_201_100.imageset/m_201_100.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_201_100.imageset/m_201_100@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_202_100.imageset/m_202_100.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_202_100.imageset/m_202_100@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_203_100.imageset/m_203_100.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_203_100.imageset/m_203_100@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_204_100.imageset/m_204_100.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_204_100.imageset/m_204_100@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_205_100.imageset/m_205_100.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_205_100.imageset/m_205_100@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_208_100.imageset/m_208_100.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_208_100.imageset/m_208_100@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_209_100.imageset/m_209_100.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_209_100.imageset/m_209_100@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_211_100.imageset/m_211_100.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_211_100.imageset/m_211_100@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_212_100.imageset/m_212_100.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_212_100.imageset/m_212_100@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_21_100.imageset/m_21_100.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_21_100.imageset/m_21_100@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_25_100.imageset/m_25_100.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_25_100.imageset/m_25_100@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_26_100.imageset/m_26_100.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_26_100.imageset/m_26_100@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_27_100.imageset/m_27_100.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_27_100.imageset/m_27_100@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_28_100.imageset/m_28_100.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_28_100.imageset/m_28_100@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_29_100.imageset/m_29_100.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_29_100.imageset/m_29_100@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_2_100.imageset/m_2_100.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_2_100.imageset/m_2_100@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_30_100.imageset/m_30_100.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_30_100.imageset/m_30_100@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_31_100.imageset/m_31_100.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_31_100.imageset/m_31_100@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_32_100.imageset/m_32_100.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_32_100.imageset/m_32_100@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_33_100.imageset/m_33_100.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_33_100.imageset/m_33_100@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_35_100.imageset/m_35_100.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_35_100.imageset/m_35_100@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_36_100.imageset/m_36_100.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_36_100.imageset/m_36_100@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_37_100.imageset/m_37_100.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_37_100.imageset/m_37_100@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_38_100.imageset/m_38_100.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_38_100.imageset/m_38_100@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_39_100.imageset/m_39_100.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_39_100.imageset/m_39_100@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_3_100.imageset/m_3_100.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_3_100.imageset/m_3_100@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_40_100.imageset/m_40_100.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_40_100.imageset/m_40_100@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_41_100.imageset/m_41_100.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_41_100.imageset/m_41_100@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_42_100.imageset/m_42_100.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_42_100.imageset/m_42_100@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_43_100.imageset/m_43_100.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_43_100.imageset/m_43_100@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_45_100.imageset/m_45_100.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_45_100.imageset/m_45_100@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_48_100.imageset/m_48_100.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_48_100.imageset/m_48_100@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_49_100.imageset/m_49_100.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_49_100.imageset/m_49_100@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_4_100.imageset/m_4_100.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_4_100.imageset/m_4_100@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_50_100.imageset/m_50_100.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_50_100.imageset/m_50_100@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_51_100.imageset/m_51_100.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_51_100.imageset/m_51_100@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_52_100.imageset/m_52_100.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_52_100.imageset/m_52_100@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_53_100.imageset/m_53_100.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_53_100.imageset/m_53_100@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_57_100.imageset/m_57_100.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_57_100.imageset/m_57_100@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_58_100.imageset/m_58_100.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_58_100.imageset/m_58_100@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_59_100.imageset/m_59_100.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_59_100.imageset/m_59_100@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_5_100.imageset/m_5_100.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_5_100.imageset/m_5_100@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_60_100.imageset/m_60_100.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_60_100.imageset/m_60_100@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_63_100.imageset/m_63_100.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_63_100.imageset/m_63_100@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_67_100.imageset/m_67_100.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_67_100.imageset/m_67_100@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_6_100.imageset/m_6_100.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_6_100.imageset/m_6_100@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_71_100.imageset/m_71_100.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_71_100.imageset/m_71_100@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_75_100.imageset/m_75_100.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_75_100.imageset/m_75_100@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_76_100.imageset/m_76_100.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_76_100.imageset/m_76_100@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_77_100.imageset/m_77_100.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_77_100.imageset/m_77_100@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_78_100.imageset/m_78_100.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_78_100.imageset/m_78_100@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_79_100.imageset/m_79_100.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_79_100.imageset/m_79_100@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_7_100.imageset/m_7_100.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_7_100.imageset/m_7_100@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_80_100.imageset/m_80_100.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_80_100.imageset/m_80_100@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_81_100.imageset/m_81_100.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_81_100.imageset/m_81_100@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_82_100.imageset/m_82_100.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_82_100.imageset/m_82_100@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_83_100.imageset/m_83_100.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_83_100.imageset/m_83_100@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_84_100.imageset/m_84_100.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_84_100.imageset/m_84_100@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_85_100.imageset/m_85_100.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_85_100.imageset/m_85_100@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_86_100.imageset/m_86_100.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_86_100.imageset/m_86_100@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_87_100.imageset/m_87_100.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_87_100.imageset/m_87_100@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_89_100.imageset/m_89_100.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_89_100.imageset/m_89_100@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_8_100.imageset/m_8_100.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_8_100.imageset/m_8_100@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_91_100.imageset/m_91_100.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_91_100.imageset/m_91_100@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_92_100.imageset/m_92_100.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_92_100.imageset/m_92_100@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_93_100.imageset/m_93_100.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_93_100.imageset/m_93_100@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_94_100.imageset/m_94_100.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_94_100.imageset/m_94_100@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_95_100.imageset/m_95_100.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_95_100.imageset/m_95_100@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_96_100.imageset/m_96_100.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_96_100.imageset/m_96_100@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_97_100.imageset/m_97_100.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_97_100.imageset/m_97_100@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_98_100.imageset/m_98_100.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_98_100.imageset/m_98_100@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_99_100.imageset/m_99_100.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_99_100.imageset/m_99_100@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_9_100.imageset/m_9_100.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_9_100.imageset/m_9_100@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/Contents.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_100_100.imageset/Contents.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_102_100.imageset/Contents.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_104_100.imageset/Contents.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_107_100.imageset/Contents.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_109_100.imageset/Contents.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_10_100.imageset/Contents.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_110_100.imageset/Contents.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_111_100.imageset/Contents.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_112_100.imageset/Contents.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_113_100.imageset/Contents.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_115_100.imageset/Contents.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_127_100.imageset/Contents.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_128_100.imageset/Contents.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_129_100.imageset/Contents.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_133_100.imageset/Contents.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_135_100.imageset/Contents.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_136_100.imageset/Contents.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_138_100.imageset/Contents.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_13_100.imageset/Contents.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_140_100.imageset/Contents.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_141_100.imageset/Contents.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_142_100.imageset/Contents.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_143_100.imageset/Contents.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_144_100.imageset/Contents.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_145_100.imageset/Contents.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_146_100.imageset/Contents.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_147_100.imageset/Contents.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_148_100.imageset/Contents.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_149_100.imageset/Contents.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_14_100.imageset/Contents.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_150_100.imageset/Contents.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_152_100.imageset/Contents.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_153_100.imageset/Contents.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_155_100.imageset/Contents.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_156_100.imageset/Contents.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_157_100.imageset/Contents.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_159_100.imageset/Contents.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_15_100.imageset/Contents.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_161_100.imageset/Contents.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_163_100.imageset/Contents.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_164_100.imageset/Contents.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_165_100.imageset/Contents.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_166_100.imageset/Contents.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_167_100.imageset/Contents.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_168_100.imageset/Contents.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_16_100.imageset/Contents.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_170_100.imageset/Contents.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_171_100.imageset/Contents.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_172_100.imageset/Contents.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_174_100.imageset/Contents.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_179_100.imageset/Contents.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_17_100.imageset/Contents.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_180_100.imageset/Contents.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_181_100.imageset/Contents.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_182_100.imageset/Contents.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_183_100.imageset/Contents.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_186_100.imageset/Contents.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_188_100.imageset/Contents.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_189_100.imageset/Contents.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_18_100.imageset/Contents.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_190_100.imageset/Contents.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_194_100.imageset/Contents.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_195_100.imageset/Contents.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_196_100.imageset/Contents.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_197_100.imageset/Contents.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_199_100.imageset/Contents.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_19_100.imageset/Contents.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_200_100.imageset/Contents.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_201_100.imageset/Contents.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_202_100.imageset/Contents.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_203_100.imageset/Contents.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_204_100.imageset/Contents.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_205_100.imageset/Contents.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_208_100.imageset/Contents.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_209_100.imageset/Contents.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_211_100.imageset/Contents.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_212_100.imageset/Contents.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_21_100.imageset/Contents.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_25_100.imageset/Contents.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_26_100.imageset/Contents.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_27_100.imageset/Contents.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_28_100.imageset/Contents.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_29_100.imageset/Contents.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_2_100.imageset/Contents.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_30_100.imageset/Contents.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_31_100.imageset/Contents.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_32_100.imageset/Contents.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_33_100.imageset/Contents.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_35_100.imageset/Contents.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_36_100.imageset/Contents.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_37_100.imageset/Contents.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_38_100.imageset/Contents.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_39_100.imageset/Contents.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_3_100.imageset/Contents.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_40_100.imageset/Contents.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_41_100.imageset/Contents.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_42_100.imageset/Contents.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_43_100.imageset/Contents.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_45_100.imageset/Contents.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_48_100.imageset/Contents.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_49_100.imageset/Contents.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_4_100.imageset/Contents.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_50_100.imageset/Contents.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_51_100.imageset/Contents.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_52_100.imageset/Contents.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_53_100.imageset/Contents.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_57_100.imageset/Contents.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_58_100.imageset/Contents.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_59_100.imageset/Contents.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_5_100.imageset/Contents.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_60_100.imageset/Contents.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_63_100.imageset/Contents.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_67_100.imageset/Contents.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_6_100.imageset/Contents.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_71_100.imageset/Contents.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_75_100.imageset/Contents.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_76_100.imageset/Contents.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_77_100.imageset/Contents.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_78_100.imageset/Contents.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_79_100.imageset/Contents.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_7_100.imageset/Contents.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_80_100.imageset/Contents.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_81_100.imageset/Contents.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_82_100.imageset/Contents.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_83_100.imageset/Contents.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_84_100.imageset/Contents.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_85_100.imageset/Contents.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_86_100.imageset/Contents.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_87_100.imageset/Contents.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_89_100.imageset/Contents.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_8_100.imageset/Contents.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_91_100.imageset/Contents.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_92_100.imageset/Contents.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_93_100.imageset/Contents.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_94_100.imageset/Contents.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_95_100.imageset/Contents.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_96_100.imageset/Contents.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_97_100.imageset/Contents.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_98_100.imageset/Contents.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_99_100.imageset/Contents.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/carImages/m_9_100.imageset/Contents.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testApp/08_carListView/Car.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testApp/08_carListView/carListView.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/Loading/tableview_loading.imageset/tableview_loading@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/Loading/tableview_loading.imageset/tableview_loading@3x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/Loading/tableview_loading@2x副本.imageset/tableview_loading@2x副本.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/Loading/tableview_pull_refresh.imageset/tableview_pull_refresh@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/Loading/tableview_pull_refresh.imageset/tableview_pull_refresh@3x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/Loading/tableview_pull_refresh@2x副本.imageset/tableview_pull_refresh@2x副本.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/NavigationBar/navigationbar_arrow_down.imageset/navigationbar_arrow_down@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/NavigationBar/navigationbar_arrow_up.imageset/navigationbar_arrow_up@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/NavigationBar/navigationbar_friendattention.imageset/navigationbar_friendattention@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/NavigationBar/navigationbar_friendattention.imageset/navigationbar_friendattention@3x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/NavigationBar/navigationbar_friendattention_highlighted.imageset/navigationbar_friendattention_highlighted@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/NavigationBar/navigationbar_friendattention_highlighted.imageset/navigationbar_friendattention_highlighted@3x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/NavigationBar/navigationbar_pop.imageset/navigationbar_pop@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/NavigationBar/navigationbar_pop.imageset/navigationbar_pop@3x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/NavigationBar/navigationbar_pop_highlighted.imageset/navigationbar_pop_highlighted@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/NavigationBar/navigationbar_pop_highlighted.imageset/navigationbar_pop_highlighted@3x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/TabBar/tabbar_background.imageset/tabbar_background@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/TabBar/tabbar_compose_button.imageset/tabbar_compose_button@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/TabBar/tabbar_compose_button.imageset/tabbar_compose_button@3x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/TabBar/tabbar_compose_button_highlighted.imageset/tabbar_compose_button_highlighted@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/TabBar/tabbar_compose_button_highlighted.imageset/tabbar_compose_button_highlighted@3x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/TabBar/tabbar_compose_icon_add.imageset/tabbar_compose_icon_add@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/TabBar/tabbar_compose_icon_add.imageset/tabbar_compose_icon_add@3x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/TabBar/tabbar_compose_icon_add_highlighted.imageset/tabbar_compose_icon_add_highlighted@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/TabBar/tabbar_compose_icon_add_highlighted.imageset/tabbar_compose_icon_add_highlighted@3x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/TabBar/tabbar_discover.imageset/tabbar_discover@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/TabBar/tabbar_discover.imageset/tabbar_discover@3x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/TabBar/tabbar_discover_highlighted.imageset/tabbar_discover_highlighted@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/TabBar/tabbar_discover_highlighted.imageset/tabbar_discover_highlighted@3x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/TabBar/tabbar_home.imageset/tabbar_home@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/TabBar/tabbar_home.imageset/tabbar_home@3x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/TabBar/tabbar_home_highlighted.imageset/tabbar_home_highlighted@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/TabBar/tabbar_home_highlighted.imageset/tabbar_home_highlighted@3x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/TabBar/tabbar_message_center.imageset/tabbar_message_center@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/TabBar/tabbar_message_center.imageset/tabbar_message_center@3x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/TabBar/tabbar_message_center_highlighted.imageset/tabbar_message_center_highlighted@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/TabBar/tabbar_message_center_highlighted.imageset/tabbar_message_center_highlighted@3x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/TabBar/tabbar_profile.imageset/tabbar_profile@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/TabBar/tabbar_profile.imageset/tabbar_profile@3x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/TabBar/tabbar_profile_highlighted.imageset/tabbar_profile_highlighted@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/TabBar/tabbar_profile_highlighted.imageset/tabbar_profile_highlighted@3x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/Loading/Contents.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/Loading/tableview_loading.imageset/Contents.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/Loading/tableview_loading@2x副本.imageset/Contents.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/Loading/tableview_pull_refresh.imageset/Contents.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/Loading/tableview_pull_refresh@2x副本.imageset/Contents.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/NavigationBar/Contents.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/NavigationBar/navigationbar_arrow_down.imageset/Contents.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/NavigationBar/navigationbar_arrow_up.imageset/Contents.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/NavigationBar/navigationbar_friendattention.imageset/Contents.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/NavigationBar/navigationbar_friendattention_highlighted.imageset/Contents.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/NavigationBar/navigationbar_pop.imageset/Contents.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/NavigationBar/navigationbar_pop_highlighted.imageset/Contents.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/TabBar/Contents.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/TabBar/tabbar_background.imageset/Contents.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/TabBar/tabbar_compose_button.imageset/Contents.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/TabBar/tabbar_compose_button_highlighted.imageset/Contents.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/TabBar/tabbar_compose_icon_add.imageset/Contents.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/TabBar/tabbar_compose_icon_add_highlighted.imageset/Contents.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/TabBar/tabbar_discover.imageset/Contents.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/TabBar/tabbar_discover_highlighted.imageset/Contents.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/TabBar/tabbar_home.imageset/Contents.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/TabBar/tabbar_home_highlighted.imageset/Contents.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/TabBar/tabbar_message_center.imageset/Contents.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/TabBar/tabbar_message_center_highlighted.imageset/Contents.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/TabBar/tabbar_profile.imageset/Contents.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/TabBar/tabbar_profile_highlighted.imageset/Contents.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testApp/09_TabBarDemo/TabBarDemo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testApp/10_newsDemo/Component/find.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testApp/10_newsDemo/Component/home.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testApp/10_newsDemo/Component/main.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testApp/10_newsDemo/Component/message.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testApp/10_newsDemo/Component/mine.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testApp/10_newsDemo/newsDemo.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/MyApp.xcodeproj/project.xcworkspace/xcuserdata/softa.xcuserdatad/UserInterfaceState.xcuserstate" afterPath="$PROJECT_DIR$/ios/MyApp.xcodeproj/project.xcworkspace/xcuserdata/softa.xcuserdatad/UserInterfaceState.xcuserstate" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.android.js" afterPath="$PROJECT_DIR$/index.android.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.ios.js" afterPath="$PROJECT_DIR$/index.ios.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/testApp/08_carListView/carListView.js" afterPath="$PROJECT_DIR$/testApp/08_carListView/carListView.js" />
     </list>
     <ignored path="LearningReactNativeDemo.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -453,34 +103,39 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.ios.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/index.ios.js">
+      <file leaf-file-name="newsDemo.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/testApp/10_newsDemo/newsDemo.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+            <state relative-caret-position="170">
+              <caret line="12" column="16" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
               <folding>
-                <element signature="n#!!doc" expanded="true" />
+                <element signature="e#42#83#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="carListView.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/testApp/08_carListView/carListView.js">
+      <file leaf-file-name="main.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/testApp/10_newsDemo/Component/main.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="421">
-              <caret line="68" column="53" selection-start-line="68" selection-start-column="53" selection-end-line="68" selection-end-column="53" />
-              <folding />
+            <state relative-caret-position="231">
+              <caret line="36" column="44" selection-start-line="36" selection-start-column="44" selection-end-line="36" selection-end-column="44" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+                <element signature="e#43#84#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Car.json" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/testApp/08_carListView/Car.json">
+      <file leaf-file-name="home.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/testApp/10_newsDemo/Component/home.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="19" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
-              <folding />
+            <state relative-caret-position="374">
+              <caret line="24" column="0" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+              <folding>
+                <element signature="e#42#83#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -500,8 +155,16 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/index.ios.js" />
         <option value="$PROJECT_DIR$/testApp/08_carListView/carListView.js" />
+        <option value="$PROJECT_DIR$/testApp/09_TabBarDemo/TabBarDemo.js" />
+        <option value="$PROJECT_DIR$/index.ios.js" />
+        <option value="$PROJECT_DIR$/testApp/10_newsDemo/newsDemo.js" />
+        <option value="$PROJECT_DIR$/index.android.js" />
+        <option value="$PROJECT_DIR$/testApp/10_newsDemo/Component/find.js" />
+        <option value="$PROJECT_DIR$/testApp/10_newsDemo/Component/message.js" />
+        <option value="$PROJECT_DIR$/testApp/10_newsDemo/Component/mine.js" />
+        <option value="$PROJECT_DIR$/testApp/10_newsDemo/Component/main.js" />
+        <option value="$PROJECT_DIR$/testApp/10_newsDemo/Component/home.js" />
       </list>
     </option>
   </component>
@@ -577,7 +240,83 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="08_carListView" />
+              <option name="myItemId" value="10_newsDemo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="LearningReactNativeDemo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="LearningReactNativeDemo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="testApp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="10_newsDemo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="images" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="LearningReactNativeDemo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="LearningReactNativeDemo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="testApp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="10_newsDemo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Component" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="LearningReactNativeDemo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="LearningReactNativeDemo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="testApp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="09_TabBarDemo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="LearningReactNativeDemo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="LearningReactNativeDemo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="testApp" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -599,20 +338,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="LearningReactNativeDemo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="LearningReactNativeDemo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="testApp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
     </panes>
@@ -624,14 +349,60 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="nodejs_interpreter_path" value="/usr/local/bin/node" />
+    <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/testApp/10_newsDemo/images" />
       <recent name="$PROJECT_DIR$/testApp/08_carListView" />
     </key>
   </component>
   <component name="RunManager">
+    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <method />
+    </configuration>
+    <configuration default="true" type="DartTestRunConfigurationType" factoryName="Dart Test">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
     <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="cucumber.js" factoryName="Cucumber.js">
+      <option name="cucumberJsArguments" value="" />
+      <option name="executablePath" />
+      <option name="filePath" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
       <method />
     </configuration>
   </component>
@@ -648,33 +419,33 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1505373726444</updated>
-      <workItem from="1505373727998" duration="6321000" />
+      <workItem from="1505373727998" duration="19922000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6321000" />
+    <option name="totallyTimeSpent" value="19922000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="813" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24947146" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24947146" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -702,27 +473,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/testApp/07_listViewDemo/listViewDemo.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="302">
-          <caret line="77" column="6" selection-start-line="77" selection-start-column="6" selection-end-line="77" selection-end-column="6" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-            <marker date="1505367174000" expanded="true" signature="502:543" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.ios.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/testApp/08_carListView/Car.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
@@ -731,11 +481,142 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/react-native/Libraries/Components/View/View.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="82" column="6" selection-start-line="82" selection-start-column="6" selection-end-line="82" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/react-native/Libraries/Text/Text.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-245">
+          <caret line="98" column="6" selection-start-line="98" selection-start-column="6" selection-end-line="98" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.android.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="50" selection-start-line="12" selection-start-column="50" selection-end-line="12" selection-end-column="50" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <element signature="e#100#141#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.ios.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="55" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <element signature="e#100#141#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testApp/10_newsDemo/Component/find.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="25" selection-end-column="22" />
+          <folding>
+            <element signature="e#42#83#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testApp/10_newsDemo/Component/message.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="25" selection-end-column="25" />
+          <folding>
+            <element signature="e#42#83#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testApp/06_RotationImage/RotationImage.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="26" selection-end-column="6" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testApp/10_newsDemo/Component/mine.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="19" column="17" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="17" />
+          <folding>
+            <element signature="e#42#83#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testApp/09_TabBarDemo/TabBarDemo.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-272">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <element signature="e#42#83#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testApp/10_newsDemo/newsDemo.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="12" column="16" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
+          <folding>
+            <element signature="e#42#83#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testApp/10_newsDemo/Component/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="36" column="44" selection-start-line="36" selection-start-column="44" selection-end-line="36" selection-end-column="44" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <element signature="e#43#84#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/testApp/08_carListView/carListView.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="421">
-          <caret line="68" column="53" selection-start-line="68" selection-start-column="53" selection-end-line="68" selection-end-column="53" />
+        <state relative-caret-position="221">
+          <caret line="16" column="21" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testApp/07_listViewDemo/listViewDemo.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1050">
+          <caret line="77" column="6" selection-start-line="77" selection-start-column="6" selection-end-line="77" selection-end-column="6" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <marker date="1505367174000" expanded="true" signature="502:543" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testApp/10_newsDemo/Component/home.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="24" column="0" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+          <folding>
+            <element signature="e#42#83#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
