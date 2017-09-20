@@ -1,86 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="aef22f20-791c-4d32-b983-6d07a8dec380" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/Loading/tableview_loading.imageset/tableview_loading@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/Loading/tableview_loading.imageset/tableview_loading@3x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/Loading/tableview_loading@2x副本.imageset/tableview_loading@2x副本.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/Loading/tableview_pull_refresh.imageset/tableview_pull_refresh@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/Loading/tableview_pull_refresh.imageset/tableview_pull_refresh@3x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/Loading/tableview_pull_refresh@2x副本.imageset/tableview_pull_refresh@2x副本.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/NavigationBar/navigationbar_arrow_down.imageset/navigationbar_arrow_down@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/NavigationBar/navigationbar_arrow_up.imageset/navigationbar_arrow_up@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/NavigationBar/navigationbar_friendattention.imageset/navigationbar_friendattention@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/NavigationBar/navigationbar_friendattention.imageset/navigationbar_friendattention@3x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/NavigationBar/navigationbar_friendattention_highlighted.imageset/navigationbar_friendattention_highlighted@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/NavigationBar/navigationbar_friendattention_highlighted.imageset/navigationbar_friendattention_highlighted@3x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/NavigationBar/navigationbar_pop.imageset/navigationbar_pop@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/NavigationBar/navigationbar_pop.imageset/navigationbar_pop@3x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/NavigationBar/navigationbar_pop_highlighted.imageset/navigationbar_pop_highlighted@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/NavigationBar/navigationbar_pop_highlighted.imageset/navigationbar_pop_highlighted@3x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/TabBar/tabbar_background.imageset/tabbar_background@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/TabBar/tabbar_compose_button.imageset/tabbar_compose_button@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/TabBar/tabbar_compose_button.imageset/tabbar_compose_button@3x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/TabBar/tabbar_compose_button_highlighted.imageset/tabbar_compose_button_highlighted@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/TabBar/tabbar_compose_button_highlighted.imageset/tabbar_compose_button_highlighted@3x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/TabBar/tabbar_compose_icon_add.imageset/tabbar_compose_icon_add@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/TabBar/tabbar_compose_icon_add.imageset/tabbar_compose_icon_add@3x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/TabBar/tabbar_compose_icon_add_highlighted.imageset/tabbar_compose_icon_add_highlighted@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/TabBar/tabbar_compose_icon_add_highlighted.imageset/tabbar_compose_icon_add_highlighted@3x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/TabBar/tabbar_discover.imageset/tabbar_discover@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/TabBar/tabbar_discover.imageset/tabbar_discover@3x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/TabBar/tabbar_discover_highlighted.imageset/tabbar_discover_highlighted@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/TabBar/tabbar_discover_highlighted.imageset/tabbar_discover_highlighted@3x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/TabBar/tabbar_home.imageset/tabbar_home@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/TabBar/tabbar_home.imageset/tabbar_home@3x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/TabBar/tabbar_home_highlighted.imageset/tabbar_home_highlighted@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/TabBar/tabbar_home_highlighted.imageset/tabbar_home_highlighted@3x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/TabBar/tabbar_message_center.imageset/tabbar_message_center@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/TabBar/tabbar_message_center.imageset/tabbar_message_center@3x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/TabBar/tabbar_message_center_highlighted.imageset/tabbar_message_center_highlighted@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/TabBar/tabbar_message_center_highlighted.imageset/tabbar_message_center_highlighted@3x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/TabBar/tabbar_profile.imageset/tabbar_profile@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/TabBar/tabbar_profile.imageset/tabbar_profile@3x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/TabBar/tabbar_profile_highlighted.imageset/tabbar_profile_highlighted@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/TabBar/tabbar_profile_highlighted.imageset/tabbar_profile_highlighted@3x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/Loading/Contents.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/Loading/tableview_loading.imageset/Contents.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/Loading/tableview_loading@2x副本.imageset/Contents.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/Loading/tableview_pull_refresh.imageset/Contents.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/Loading/tableview_pull_refresh@2x副本.imageset/Contents.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/NavigationBar/Contents.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/NavigationBar/navigationbar_arrow_down.imageset/Contents.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/NavigationBar/navigationbar_arrow_up.imageset/Contents.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/NavigationBar/navigationbar_friendattention.imageset/Contents.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/NavigationBar/navigationbar_friendattention_highlighted.imageset/Contents.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/NavigationBar/navigationbar_pop.imageset/Contents.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/NavigationBar/navigationbar_pop_highlighted.imageset/Contents.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/TabBar/Contents.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/TabBar/tabbar_background.imageset/Contents.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/TabBar/tabbar_compose_button.imageset/Contents.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/TabBar/tabbar_compose_button_highlighted.imageset/Contents.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/TabBar/tabbar_compose_icon_add.imageset/Contents.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/TabBar/tabbar_compose_icon_add_highlighted.imageset/Contents.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/TabBar/tabbar_discover.imageset/Contents.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/TabBar/tabbar_discover_highlighted.imageset/Contents.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/TabBar/tabbar_home.imageset/Contents.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/TabBar/tabbar_home_highlighted.imageset/Contents.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/TabBar/tabbar_message_center.imageset/Contents.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/TabBar/tabbar_message_center_highlighted.imageset/Contents.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/TabBar/tabbar_profile.imageset/Contents.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/MyApp/Images.xcassets/TabBar/tabbar_profile_highlighted.imageset/Contents.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testApp/09_TabBarDemo/TabBarDemo.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testApp/10_newsDemo/Component/find.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testApp/10_newsDemo/Component/home.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testApp/10_newsDemo/Component/main.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testApp/10_newsDemo/Component/message.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testApp/10_newsDemo/Component/mine.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testApp/10_newsDemo/newsDemo.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/MyApp.xcodeproj/project.xcworkspace/xcuserdata/softa.xcuserdatad/UserInterfaceState.xcuserstate" afterPath="$PROJECT_DIR$/ios/MyApp.xcodeproj/project.xcworkspace/xcuserdata/softa.xcuserdatad/UserInterfaceState.xcuserstate" />
+    <list default="true" readonly="true" id="aef22f20-791c-4d32-b983-6d07a8dec380" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testApp/00_helloWorld/nodeDemo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testApp/MyAPP/MyAPP.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.android.js" afterPath="$PROJECT_DIR$/index.android.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.ios.js" afterPath="$PROJECT_DIR$/index.ios.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/testApp/08_carListView/carListView.js" afterPath="$PROJECT_DIR$/testApp/08_carListView/carListView.js" />
     </list>
     <ignored path="LearningReactNativeDemo.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -102,39 +28,39 @@
     <favorites_list name="LearningReactNativeDemo" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="newsDemo.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/testApp/10_newsDemo/newsDemo.js">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="index.ios.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.ios.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="170">
-              <caret line="12" column="16" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
-              <folding>
-                <element signature="e#42#83#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="main.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/testApp/10_newsDemo/Component/main.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="231">
-              <caret line="36" column="44" selection-start-line="36" selection-start-column="44" selection-end-line="36" selection-end-column="44" />
+              <caret line="15" column="46" selection-start-line="15" selection-start-column="46" selection-end-line="15" selection-end-column="46" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
-                <element signature="e#43#84#0" expanded="true" />
+                <element signature="e#100#141#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="home.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/testApp/10_newsDemo/Component/home.js">
+      <file leaf-file-name="MyAPP.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/testApp/MyAPP/MyAPP.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="24" column="0" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+            <state relative-caret-position="221">
+              <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
               <folding>
                 <element signature="e#42#83#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="QQloginView.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/testApp/05_QQloginView/QQloginView.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="374">
+              <caret line="23" column="51" selection-start-line="23" selection-start-column="51" selection-end-line="23" selection-end-column="51" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -157,14 +83,17 @@
       <list>
         <option value="$PROJECT_DIR$/testApp/08_carListView/carListView.js" />
         <option value="$PROJECT_DIR$/testApp/09_TabBarDemo/TabBarDemo.js" />
-        <option value="$PROJECT_DIR$/index.ios.js" />
-        <option value="$PROJECT_DIR$/testApp/10_newsDemo/newsDemo.js" />
         <option value="$PROJECT_DIR$/index.android.js" />
         <option value="$PROJECT_DIR$/testApp/10_newsDemo/Component/find.js" />
         <option value="$PROJECT_DIR$/testApp/10_newsDemo/Component/message.js" />
         <option value="$PROJECT_DIR$/testApp/10_newsDemo/Component/mine.js" />
         <option value="$PROJECT_DIR$/testApp/10_newsDemo/Component/main.js" />
         <option value="$PROJECT_DIR$/testApp/10_newsDemo/Component/home.js" />
+        <option value="$PROJECT_DIR$/testApp/07_listViewDemo/listViewDemo.js" />
+        <option value="$PROJECT_DIR$/testApp/10_newsDemo/newsDemo.js" />
+        <option value="$PROJECT_DIR$/testApp/00_helloWorld/nodeDemo.js" />
+        <option value="$PROJECT_DIR$/index.ios.js" />
+        <option value="$PROJECT_DIR$/testApp/MyAPP/MyAPP.js" />
       </list>
     </option>
   </component>
@@ -206,8 +135,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -240,69 +167,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="10_newsDemo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="LearningReactNativeDemo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="LearningReactNativeDemo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="testApp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="10_newsDemo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="images" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="LearningReactNativeDemo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="LearningReactNativeDemo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="testApp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="10_newsDemo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Component" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="LearningReactNativeDemo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="LearningReactNativeDemo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="testApp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="09_TabBarDemo" />
+              <option name="myItemId" value="MyAPP" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -334,12 +199,32 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="07_listViewDemo" />
+              <option name="myItemId" value="05_QQloginView" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="LearningReactNativeDemo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="LearningReactNativeDemo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="testApp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="01_getScreenWH" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -353,11 +238,15 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/testApp/MyAPP/images" />
       <recent name="$PROJECT_DIR$/testApp/10_newsDemo/images" />
       <recent name="$PROJECT_DIR$/testApp/08_carListView" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Node.js.main.js">
+    <configuration default="false" name="main.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="main.js" working-dir="$PROJECT_DIR$/testApp/10_newsDemo/Component">
+      <method />
+    </configuration>
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
       <method />
     </configuration>
@@ -383,6 +272,12 @@
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.npm" factoryName="npm">
@@ -405,12 +300,21 @@
       <recursive>false</recursive>
       <method />
     </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="Node.js.main.js" />
+    </list>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="Node.js.main.js" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
   </component>
   <component name="SvnConfiguration">
     <configuration>$USER_HOME$/.subversion</configuration>
+    <supportedVersion>125</supportedVersion>
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -419,34 +323,35 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1505373726444</updated>
-      <workItem from="1505373727998" duration="19922000" />
+      <workItem from="1505373727998" duration="26679000" />
+      <workItem from="1505879037348" duration="327000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19922000" />
+    <option name="totallyTimeSpent" value="27006000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="813" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24947146" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24947146" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32871014" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -465,6 +370,27 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/index.ios.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <element signature="e#100#141#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testApp/MyAPP/MyAPP.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding>
+            <element signature="e#42#83#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -477,7 +403,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
           <caret line="14" column="19" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -501,31 +426,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
           <caret line="12" column="50" selection-start-line="12" selection-start-column="50" selection-end-line="12" selection-end-column="50" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-            <element signature="e#100#141#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.ios.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="55" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-            <element signature="e#100#141#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/testApp/10_newsDemo/Component/find.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="25" selection-end-column="22" />
-          <folding>
-            <element signature="e#42#83#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -533,9 +433,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
           <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="25" selection-end-column="25" />
-          <folding>
-            <element signature="e#42#83#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -553,9 +450,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
           <caret line="19" column="17" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="17" />
-          <folding>
-            <element signature="e#42#83#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -570,27 +464,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/testApp/10_newsDemo/newsDemo.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="12" column="16" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
-          <folding>
-            <element signature="e#42#83#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/testApp/10_newsDemo/Component/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="36" column="44" selection-start-line="36" selection-start-column="44" selection-end-line="36" selection-end-column="44" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-            <element signature="e#43#84#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/testApp/08_carListView/carListView.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
@@ -599,10 +472,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/testApp/10_newsDemo/Component/home.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="22" column="6" selection-start-line="22" selection-start-column="6" selection-end-line="22" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/testApp/07_listViewDemo/listViewDemo.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1050">
-          <caret line="77" column="6" selection-start-line="77" selection-start-column="6" selection-end-line="77" selection-end-column="6" />
+        <state relative-caret-position="333">
+          <caret line="49" column="43" selection-start-line="49" selection-start-column="43" selection-end-line="49" selection-end-column="43" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
             <marker date="1505367174000" expanded="true" signature="502:543" ph="{...}" />
@@ -610,12 +490,99 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/testApp/10_newsDemo/Component/home.js">
+    <entry file="file://$PROJECT_DIR$/testApp/00_helloWorld/nodeDemo.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="24" column="0" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+        <state relative-caret-position="34">
+          <caret line="2" column="23" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.ios.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="15" column="46" selection-start-line="15" selection-start-column="46" selection-end-line="15" selection-end-column="46" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <element signature="e#100#141#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testApp/10_newsDemo/Component/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1003">
+          <caret line="59" column="34" selection-start-line="59" selection-start-column="22" selection-end-line="59" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testApp/10_newsDemo/newsDemo.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
           <folding>
             <element signature="e#42#83#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testApp/10_newsDemo/Component/find.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="4" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testApp/01_getScreenWH/getScreenWH.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="20" column="9" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/react/lib/ReactChildren.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-305">
+          <caret line="36" column="32" selection-start-line="36" selection-start-column="32" selection-end-line="36" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/react/react.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="34" selection-start-line="2" selection-start-column="34" selection-end-line="2" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/react/lib/React.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="222">
+          <caret line="60" column="29" selection-start-line="60" selection-start-column="13" selection-end-line="60" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/react/lib/ReactBaseClasses.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="121" column="49" selection-start-line="121" selection-start-column="49" selection-end-line="121" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testApp/MyAPP/MyAPP.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding>
+            <element signature="e#42#83#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testApp/05_QQloginView/QQloginView.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="23" column="51" selection-start-line="23" selection-start-column="51" selection-end-line="23" selection-end-column="51" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
           </folding>
         </state>
       </provider>
